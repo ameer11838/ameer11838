@@ -10,7 +10,7 @@
 * **Role:** Computer Science Student at New Jersey Institute of Technology
 * **Minor:** Applied Mathematics
 * **GPA:** 3.85
-* **Honors:** Albert Dorman Honors Scholar & Dean’s List
+* **Honors:** Phi Eta Sigma Honor Society & Dean’s List
 * **Location:** New Jersey, USA
 * **Passions:** Artificial Intelligence, Machine Learning, Full-Stack Development, Quantitative Finance
 * **Current Focus:** Building AI systems, full-stack products, and research-driven machine learning models
